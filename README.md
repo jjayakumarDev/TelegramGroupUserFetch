@@ -1,1 +1,1 @@
-# SCP
+# SCP - Scalable Cloud Programming
