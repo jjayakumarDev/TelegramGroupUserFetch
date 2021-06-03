@@ -1,1 +1,1 @@
-# Telegram Group members migration using python
+# Telegram - adding group members into another group using python
